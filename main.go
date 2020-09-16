@@ -264,3 +264,4 @@ func saveToES(p *Post, id string) {
 	fmt.Printf("Post is saved to Index: %s\n", p.Message)
 }
 
+//this is for hw0 commit1
